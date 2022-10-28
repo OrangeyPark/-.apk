@@ -6,4 +6,6 @@ CSDN博客：https://orangey.blog.csdn.net/
 
 自建博客：https://orangey.info
 
-微信公众号：![](https://i.imgtg.com/2022/09/21/gNXxK.png)
+微信公众号：
+
+![](https://i.imgtg.com/2022/09/21/gNXxK.png)
