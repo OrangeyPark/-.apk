@@ -1,8 +1,7 @@
-# 橙留香Park 博客文章 Android样本APk
+# 橙留香Park博客Android样本APK
 
 CSDN博客：https://orangey.blog.csdn.net
 
-自建博客：https://orangey.info
 
-微信公众号：橙留香Park
+样本APK密码获取，请移步微信公众号获取：橙留香Park
 
